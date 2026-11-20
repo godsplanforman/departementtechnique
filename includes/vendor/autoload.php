@@ -1,0 +1,6 @@
+<?php
+
+require_once __DIR__ . '/../../guard.php';
+require_once __DIR__ . '/composer/autoload_real.php';
+
+return ComposerAutoloaderInit54e213ff8ff963afa15306f7a66bfac0::getLoader();
